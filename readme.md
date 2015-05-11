@@ -8,10 +8,10 @@ Lei Zhang
 3. Select the movie poster image to see a trailer of the movie.
 
 ####Extra features:
-Added "director" and "year" attributes for the movie object.
+Added "director" and "year" attributes for the movie object.  
 They are displayed under the movie poster images.
 
-####References used: 
+####References used:
 http://www.imdb.com/  
 https://www.youtube.com/  
-http://stackoverflow.com/ 
+http://stackoverflow.com/
